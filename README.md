@@ -1,27 +1,27 @@
-Bitcoin Core integration/staging tree
+Biocoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
 
-What is Bitcoin?
+https://celliqa.com
+
+What is Biocoin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Biocoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Biocoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
+out collectively by the network. Biocoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
+the Biocoin Core software, see https://bitcoin.org/en/download, or read the
 [original whitepaper](https://bitcoincore.org/bitcoin.pdf).
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Biocoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -71,7 +71,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
+[Biocoin Core's Transifex page](https://www.transifex.com/projects/p/Biocoin/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
